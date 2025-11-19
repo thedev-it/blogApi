@@ -1,0 +1,21 @@
+{
+  "name": "blog_api",
+  "version": "1.0.0",
+  "description": "API restfull de gesion de blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "thedev-it"
+  },
+  "keywords": [
+    "&thedev@gb10"
+  ],
+  "author": "The  dev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
